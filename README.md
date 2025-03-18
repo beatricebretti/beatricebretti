@@ -8,7 +8,6 @@ I'm a passionate **Computer Science student** and **developer** who loves learni
 - 🌸 I’m currently learning **Big Data**, **React Native**, and **hacking**!
 - ✨ I’m looking to collaborate on open-source projects and hackathons that focus on **education**, **tech for good**, or **women in tech**.
 - 💌 How to reach me: [LinkedIn](https://www.linkedin.com/in/beatricevaldesbretti) | [My Portfolio](https://beatricevaldesbretti.com)
-- 💐 Fun fact: I teach Python to kids on [TikTok](https://www.tiktok.com/@programaconbea), with some videos reaching over **20k views**!
   
 ### 🛠 Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
